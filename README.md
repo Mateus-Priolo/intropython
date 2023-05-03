@@ -1,2 +1,3 @@
 # intropython
-disciplina marcelcerri
+## disciplina marcelcerri
+$a²=b²+c²$
